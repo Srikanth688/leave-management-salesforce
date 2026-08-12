@@ -35,28 +35,6 @@ The Leave Management System is designed to manage:
 
 ---
 
-# 📚 Development & Learning Progress
-
-| Stage | Topic | Status |
-|---|---|---|
-| 1 | Requirements | ✅ Completed |
-| 2 | Objects & Fields | ✅ Completed |
-| 3 | Relationships | ✅ Completed |
-| 4 | Tabs | ✅ Completed |
-| 5 | Page Layouts | ✅ Completed |
-| 6 | Validation Rules | 🔨 In Progress |
-| 7 | Flow Automation | ⏳ Upcoming |
-| 8 | Security | ⏳ Upcoming |
-| 9 | SOQL | ⏳ Upcoming |
-| 10 | Apex | ⏳ Upcoming |
-| 11 | Triggers | ⏳ Upcoming |
-| 12 | Test Classes | ⏳ Upcoming |
-| 13 | LWC | ⏳ Upcoming |
-| 14 | Reports & Dashboards | ⏳ Upcoming |
-| 15 | GitHub & Deployment | ⏳ Upcoming |
-
----
-
 # 🏗️ Salesforce Data Model
 
 The project currently contains four main custom objects:
